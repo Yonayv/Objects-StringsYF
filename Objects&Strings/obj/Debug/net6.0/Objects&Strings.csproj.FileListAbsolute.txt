@@ -1,0 +1,14 @@
+C:\Users\EmilyFixico\source\repos\Objects&Strings\Objects&Strings\bin\Debug\net6.0\Objects&Strings.exe
+C:\Users\EmilyFixico\source\repos\Objects&Strings\Objects&Strings\bin\Debug\net6.0\Objects&Strings.deps.json
+C:\Users\EmilyFixico\source\repos\Objects&Strings\Objects&Strings\bin\Debug\net6.0\Objects&Strings.runtimeconfig.json
+C:\Users\EmilyFixico\source\repos\Objects&Strings\Objects&Strings\bin\Debug\net6.0\Objects&Strings.dll
+C:\Users\EmilyFixico\source\repos\Objects&Strings\Objects&Strings\bin\Debug\net6.0\Objects&Strings.pdb
+C:\Users\EmilyFixico\source\repos\Objects&Strings\Objects&Strings\obj\Debug\net6.0\Objects&Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EmilyFixico\source\repos\Objects&Strings\Objects&Strings\obj\Debug\net6.0\Objects&Strings.AssemblyInfoInputs.cache
+C:\Users\EmilyFixico\source\repos\Objects&Strings\Objects&Strings\obj\Debug\net6.0\Objects&Strings.AssemblyInfo.cs
+C:\Users\EmilyFixico\source\repos\Objects&Strings\Objects&Strings\obj\Debug\net6.0\Objects&Strings.csproj.CoreCompileInputs.cache
+C:\Users\EmilyFixico\source\repos\Objects&Strings\Objects&Strings\obj\Debug\net6.0\Objects&Strings.dll
+C:\Users\EmilyFixico\source\repos\Objects&Strings\Objects&Strings\obj\Debug\net6.0\refint\Objects&Strings.dll
+C:\Users\EmilyFixico\source\repos\Objects&Strings\Objects&Strings\obj\Debug\net6.0\Objects&Strings.pdb
+C:\Users\EmilyFixico\source\repos\Objects&Strings\Objects&Strings\obj\Debug\net6.0\Objects&Strings.genruntimeconfig.cache
+C:\Users\EmilyFixico\source\repos\Objects&Strings\Objects&Strings\obj\Debug\net6.0\ref\Objects&Strings.dll
